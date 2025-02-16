@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=¡Hola!+👋;I'm+Sethmidu" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&size=40&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=¡Hola!+👋;I'm+Malsha Pinto" alt="Typing Animation" />
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Sethmidu&label=PROFILE+VISITS+🌐&color=008080&style=flat-square" alt="Profile views" />
@@ -13,7 +13,7 @@
 ```diff
 ! 🌻 "Me gustan los girasoles" 🌻
 
-+ 🚀 Currently working on: [Project Name]
++ 🚀 Currently working on: [ICT Teaching]
 + 🌱 Learning: Git | Java | GitHub
 + 🤝 Looking to collaborate: Interesting projects
 ! 💡 Ask me about: SQL | Java | C# | JavaScript
@@ -35,19 +35,13 @@
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="#">
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:malshapinto991@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" width="100%">
 
-## ⚡ GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sethmidu&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sethmidu&layout=compact&langs_count=7&theme=radical" />
-</div>
-```

@@ -11,7 +11,7 @@
 
 ## 🎯 About Me
 ```diff
-! 🌻 "Me gustan los girasoles" 🌻
+! 🌻 "Work Hard" 🌻
 
 + 🚀 Currently working on: [ICT Teaching]
 + 🌱 Learning: Git | Java | GitHub
